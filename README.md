@@ -1,4 +1,4 @@
-# Finance-Project---Bank-Analysis
+# Finance Project --- Bank Analysis
 
 ## Project Objectives
 
@@ -44,6 +44,17 @@ A table provides a breakdown of loans by status (Fully Paid, Charged Off, Curren
 * The average interest rate is 12%, which seems competitive.
 * The average DTI ratio of 13.3% suggests borrowers have a reasonable debt burden.
 * The "Charged Off" category represents a significant portion of the loan portfolio, which might indicate potential credit risk issues.
+
+## Snapshots
+
+### 1. band loan summary dashboard -- Power BI Desktop
+![1  band loan summary dashboard](https://github.com/user-attachments/assets/a09c7ca9-59b1-455c-9fa8-bc5d8bc36874)
+
+### 2. band loan overview dashboard -- Power BI Desktop
+![2  band loan overview dashboard](https://github.com/user-attachments/assets/836e33d8-0376-4ee7-a105-9892779197e8)
+
+### 3. band loan details dashboard -- Power BI Desktop
+![3  band loan details dashboard](https://github.com/user-attachments/assets/29b01ffc-0230-461a-b542-db3707eb7541)
 
 ## Conclusion
 
